@@ -608,3 +608,9 @@ Some Final Year projects for everyone.
 * Determine If Your Food is Genetically Modified
 * Building Your Own Tool for Identifying DNA 
 
+## To add your CONTRIBUTION
+1. Star this Repo and Fork this Repo.
+2. Update your Readme in your Repo.
+3. Send a Pull Request.
+4. Just go for it and you will find you way.
+
