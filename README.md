@@ -1,5 +1,5 @@
 # Final-year-projects
-Some Final Year projects for everyone.
+Some Final Year projects for everyone. Make sure to add your suggestions by raising a Pull Request
 
 ## Front End Ideas
 
